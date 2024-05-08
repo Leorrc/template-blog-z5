@@ -1,16 +1,10 @@
 <div align="center">
-<picture>
-  <source  srcset="https://raw.githubusercontent.com/Leorrc/template-blog-z5/master/images/preview-1.png">
-  <img alt="Shows all of the tools in the stack for this template, also listed in the README file." src="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/preview-1.png" w>
-</picture>
 
-<picture>
-  <source  srcset="https://raw.githubusercontent.com/Leorrc/template-blog-z5/master/images/preview-2.png">
-  <img alt="Shows all of the tools in the stack for this template, also listed in the README file." src="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/preview-1.png">
-</picture>
-</div>
+<img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/preview-1.png">
+ 
+<img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/website-bank-z5/master/preview-1.png">
 
-<div align="center"><strong>Projeto feito com Next.js</strong></div>
+<div align="center"><strong>Projeto feito com Next.js 13</strong></div>
 <br />
 <div align="center">
 <a href="https://www.z5digital.com.br/">Visitar o site</a>
