@@ -3,6 +3,7 @@
 <img alt="preview-1" src="https://raw.githubusercontent.com/Leorrc/template-blog-z5/master/images/preview-1.png">
  
 <img alt="preview-2" src="https://raw.githubusercontent.com/Leorrc/template-blog-z5/master/images/preview-2.png">
+</div>
 
 <div align="center"><strong>Projeto feito com Next.js 13</strong></div>
 <br />
